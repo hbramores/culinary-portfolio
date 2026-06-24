@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Pancit Canton with Sunny-Side Egg",
+    "category": "Noodle Dish",
+    "image": "/images/pancit-canton-egg.jpg",
+    "alt": "Classic Pancit Canton topped with a sunny-side egg",
+    "description": "Savory stir-cooked Pancit Canton noodles finished with a perfectly cooked sunny-side egg, showcasing balance, texture, and simple yet satisfying flavors.",
+
+    "featured": true,
+    "dateCreated": "2026-06-24",
+    "difficulty": "Beginner",
+    "preparationTime": "15 minutes",
+    "servings": 1,
+
+    "ingredients": [
+        "Pancit Canton noodles",
+        "Egg",
+        "Cooking oil",
+        "Spring onions"
+    ],
+
+    "skills": [
+        "Noodle Preparation",
+        "Egg Cookery",
+        "Plating"
+    ]
+    },
+    {
+    "id": 2,
+    "name": "Atay na Adobo",
+    "category": "Main Course",
+    "image": "/images/atay-na-adobo.jpg",
+    "alt": "Filipino-style chicken liver adobo served with rice",
+    "description": "A rich and savory Filipino dish featuring tender chicken liver simmered in vinegar, soy sauce, garlic, and spices, creating a bold and comforting flavor.",
+
+    "featured": true,
+    "dateCreated": "2026-06-24",
+    "difficulty": "Intermediate",
+    "preparationTime": "40 minutes",
+    "servings": 4,
+
+    "ingredients": [
+        "Chicken liver",
+        "Soy sauce",
+        "Vinegar",
+        "Garlic",
+        "Bay leaves",
+        "Black peppercorns"
+    ],
+
+    "skills": [
+        "Protein Preparation",
+        "Flavor Balancing",
+        "Traditional Filipino Cooking"
+    ]
+    }
+]
